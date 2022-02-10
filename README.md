@@ -1,7 +1,7 @@
 # FileOrganizer
 Simple python script to sort and organize your files. (Learning Project)
 
-There are no requirements, you just have to have python 3 installed.
+PIL is required to run the script, make sure to install it with the "pip install pillow" command.
 I advise to run the v2 version, the v1 is a first attempt and is very clunky.
 
 If you want to run the script with a GUI, just run the v3 file.
